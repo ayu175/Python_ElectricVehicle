@@ -1,10 +1,10 @@
-**Topic:** Electric vehicle
+**Programming Language:** Python
+
+**Topic:** Electric vehicles
 
 **Dataset:** Contains brand, model, acceleration speed, range, efficiency, price, etc
 
-**Langugae:** Python
-
-**Skills:**
+**Skills Showcased:**
   - Data exploration
   - Data cleaning
   - Mulitple linear regression
