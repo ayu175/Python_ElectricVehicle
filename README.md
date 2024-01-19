@@ -4,7 +4,7 @@
 This project focuses on analyzing electric vehicles (EVs) using Python. The dataset includes information about various electric vehicle models, such as brand, model, acceleration speed, range, efficiency, price, and more.
 
 ### **Programming Language**
-Python
+Python in Jupyter Notebook
 
 ### **Skills Showcased**
 This project demonstrates proficiency in several key areas:
